@@ -3197,10 +3197,10 @@ fieldset[disabled] .i-checks input + i:before {
   background-color: #fbd46e;
 }
 .pie-chart .circle {
-  margin: 0 0 0 80px;
   width: 200px;
   height: 200px;
   position: absolute;
+  left: 30%;
   border-radius: 50%;
   background: #4cc9d5;
 }
